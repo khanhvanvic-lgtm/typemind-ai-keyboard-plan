@@ -436,43 +436,55 @@ Gallery: GIF demo mạnh hơn screenshot tĩnh
 
 ---
 
-### 6.5 Kênh 5: Paid Ads — Paid Acquisition (Scale)
+### 6.5 Kênh 5: Paid Ads — Paid Acquisition (Tối Giản Với $150/tháng)
 
-**Mức độ ưu tiên: 🟡 Trung bình (sau khi có traction)**
+**Mức độ ưu tiên: 🟡 Trung bình (chỉ bắt đầu từ tháng 3)**
 
-Chỉ chạy paid khi đã có data từ organic để biết message nào hiệu quả.
+Với ngân sách $150/tháng, paid ads chỉ là kênh **học dữ liệu** — không phải kênh scale. Organic phải gánh phần lớn tăng trưởng.
 
-#### Google UAC (Universal App Campaigns):
+#### Nguyên Tắc Chạy Ads Với Budget Nhỏ
 
-**Target Audiences:**
 ```
-Audience 1: In-market "Productivity apps"
-Audience 2: Custom intent — người search "grammar checker mobile"
-Audience 3: Similar audiences từ existing users
-Audience 4: Retargeting — người đã xem store listing nhưng chưa install
-```
-
-**Budget Recommendation (Bootstrap phase):**
-```
-Month 1-2: $0 (100% organic)
-Month 3:   $500/tháng — test 3-4 creative variations
-Month 4:   Scale winner, $1,000-2,000/tháng
-Month 5+:  Optimize based on CPI, ROAS, D30 retention
+❌ Không chạy nhiều kênh cùng lúc → phân tán, không đủ data
+✅ Chọn 1 kênh duy nhất, học nhanh, optimize
+✅ Tháng 3: chỉ Google UAC
+✅ Tháng 5: thêm Meta nếu Google UAC dương
 ```
 
-**Creative Format ưu tiên:**
-- Video 15 giây: Before/After email transformation
-- HTML5 banner: "Write better for $0.99/month" + download button
+#### Google UAC — $90/tháng ($3/ngày)
 
-#### Meta Ads (Facebook/Instagram):
-
-**Format:** Reels (repurpose từ TikTok content)
-**Target:**
+**Target Audiences (chọn 1 trong 2 để test):**
 ```
-Lookalike: 1-3% LAL từ app installers
-Behavioral: Grammarly users, Microsoft Office users
-Interest: English learning, remote work, productivity
-Geographic: India, Philippines, SEA
+Test A: Custom intent — "grammar checker mobile", "ai writing app"
+Test B: In-market — "Productivity apps" tại India, Philippines
+```
+
+**Budget breakdown $3/ngày:**
+```
+Tháng 3, Tuần 1-2: Chạy cả Test A và Test B ($1.5/ngày mỗi nhóm)
+Tháng 3, Tuần 3-4: Tắt nhóm tệp, all-in nhóm winner
+Tháng 4:           Nếu CPI < $2 → giữ. Nếu > $2 → đổi creative
+```
+
+**Creative Format (tự làm, $0 chi phí sản xuất):**
+- Video 15s quay bằng điện thoại: Before/After email — đủ tốt với UAC
+- Dùng CapCut Free, subtitle auto, không cần studio
+
+**KPI ngưỡng dừng:**
+```
+CPI > $3.00 sau 14 ngày → pause campaign, đổi creative
+Install-to-D1-retention < 30% → vấn đề onboarding, fix app trước
+```
+
+#### Meta Ads (Reels) — $45/tháng, chỉ từ tháng 5
+
+**Chỉ chạy khi:** Google UAC đã có CPI < $2 và D7 retention > 20%.
+
+**Format:** Reuse video TikTok (không tốn thêm chi phí sản xuất)
+```
+Target: Interest — English learning, Remote work
+Geo:    India, Philippines (CPC thấp nhất, ESL lớn nhất)
+Budget: $1.5/ngày
 ```
 
 ---
@@ -624,35 +636,97 @@ Payback Period:            < 3 tháng
 
 ## 9. Ngân Sách Dự Kiến
 
-### Phase 1: Bootstrap (Tháng 1-2) — $200-500/tháng
+> **Ngân sách tối đa: $150/tháng** — Chiến lược tập trung 80% organic, 20% paid. Mọi kênh paid chỉ được kích hoạt sau khi organic đã validate được message.
 
-| Hạng mục | Chi phí |
-|---|---|
-| ASO tools (AppFollow/AppTweak) | $50/tháng |
-| Design tools (Canva Pro) | $15/tháng |
-| Video editing (CapCut Pro) | $10/tháng |
-| Influencer gifting (free subs) | ~$30 |
-| **Total** | **~$105-200/tháng** |
+### Nguyên Tắc Phân Bổ Với $150/Tháng
 
-### Phase 2: Growth (Tháng 3-4) — $1,000-2,000/tháng
+```
+Priority 1: Tools thiết yếu (không thể bỏ)   → $15-20/tháng
+Priority 2: Paid ads nhỏ để test & learn       → $80-100/tháng
+Priority 3: Influencer (nano, đổi sub miễn phí) → $0-30/tháng
+───────────────────────────────────────────────────────
+Total hard cap:                                  $150/tháng
+```
 
-| Hạng mục | Chi phí |
-|---|---|
-| Google UAC | $500/tháng |
-| Meta Ads | $300/tháng |
-| Micro-influencer (2 posts) | $500-700 |
-| Content creation | $200/tháng |
-| **Total** | **~$1,500-1,700/tháng** |
+---
 
-### Phase 3: Scale (Tháng 5-6) — $3,000-5,000/tháng
+### Phase 1: Foundation (Tháng 1-2) — $20/tháng
 
-| Hạng mục | Chi phí |
-|---|---|
-| Paid ads (Google + Meta) | $2,000/tháng |
-| Mid-tier influencer (1 post) | $1,000-2,000 |
-| PR outreach tools | $100/tháng |
-| SEO tools | $100/tháng |
-| **Total** | **~$3,200-4,200/tháng** |
+**Mục tiêu:** Xây brand, tối ưu store listing, tạo nội dung organic.  
+**Paid ads: $0** — 100% organic. Dùng tools miễn phí tối đa.
+
+| Hạng mục | Công cụ | Chi phí |
+|---|---|---|
+| Design | Canva Free (đủ dùng) | $0 |
+| Video editing | CapCut Free | $0 |
+| ASO research | Google Play Console (miễn phí) + AppFollow Free tier | $0 |
+| Keyword research | Ubersuggest Free / Google Keyword Planner | $0 |
+| Email marketing | Mailchimp Free (500 contacts) | $0 |
+| Influencer gifting | Tặng 2-3 sub miễn phí cho nano-creator | ~$20 |
+| **Total** | | **~$20/tháng** |
+
+**Tích lũy tháng 1-2:** Tiết kiệm $130 × 2 = **$260 dự phòng cho Phase 2**
+
+---
+
+### Phase 2: Test & Learn (Tháng 3-4) — $130-150/tháng
+
+**Mục tiêu:** Test paid ads với budget nhỏ, double down kênh organic tốt nhất.
+
+| Hạng mục | Chi tiết | Chi phí |
+|---|---|---|
+| **Google UAC** | $3/ngày — đủ để có data trong 30 ngày | $90/tháng |
+| **Canva Pro** | Cần để làm creative ads đẹp | $15/tháng |
+| **Influencer nano** | 1-2 creator, đổi sub miễn phí hoặc $20-30/post | $30/tháng |
+| Reddit Ads (optional) | Nếu còn dư, test $15 vào r/androidapps | $15/tháng |
+| **Total** | | **~$135-150/tháng** |
+
+**Cách chạy Google UAC $90/tháng hiệu quả:**
+```
+Tuần 1-2: Chạy $3/ngày với 2 creative (video Before/After)
+Tuần 3:   Tắt creative tệp hơn, double budget creative winner
+Tuần 4:   Nếu CPI < $2 → giữ nguyên. Nếu > $2 → pause, test creative mới
+```
+
+---
+
+### Phase 3: Optimize & Double Down (Tháng 5-6) — $150/tháng
+
+**Mục tiêu:** Chỉ chạy kênh đã chứng minh ROI dương từ Phase 2.
+
+| Hạng mục | Chi tiết | Chi phí |
+|---|---|---|
+| **Google UAC** (nếu CPI < $2 ở Phase 2) | Giữ $3/ngày | $90/tháng |
+| **Meta Ads** (Reels — reuse TikTok content) | $1.5/ngày, test audience ESL | $45/tháng |
+| **Canva Pro** | | $15/tháng |
+| **Total** | | **~$150/tháng** |
+
+> ⚠️ **Quy tắc cứng:** Nếu một kênh có CPI > $3 sau 2 tuần → pause ngay, chuyển budget sang kênh còn lại.
+
+---
+
+### So Sánh Trước / Sau Khi Điều Chỉnh Ngân Sách
+
+| | Plan cũ | Plan mới ($150/tháng) |
+|---|---|---|
+| Phase 1 | $200-500/tháng | **$20/tháng** |
+| Phase 2 | $1,500-1,700/tháng | **$150/tháng** |
+| Phase 3 | $3,200-4,200/tháng | **$150/tháng** |
+| **Tổng 6 tháng** | **~$10,000+** | **~$650** |
+| Tỷ lệ organic | 40% | **80%+** |
+
+---
+
+### Toolkit Miễn Phí Thay Thế Hoàn Toàn
+
+| Mục đích | Tool trả phí (cũ) | Tool miễn phí (mới) |
+|---|---|---|
+| Design | Canva Pro | Canva Free + Figma Free |
+| Video | CapCut Pro | CapCut Free + DaVinci Resolve |
+| ASO | AppFollow $50/tháng | Google Play Console + AppFollow Free |
+| Email | Mailchimp Pro | Mailchimp Free (500 subs) |
+| Analytics | Adjust/AppsFlyer | Firebase Analytics (miễn phí) |
+| Keyword | Ahrefs $99/tháng | Ubersuggest Free + Google Trends |
 
 ---
 
